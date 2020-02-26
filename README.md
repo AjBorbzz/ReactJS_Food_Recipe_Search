@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Food Recipe Search
 My 2nd time to create app in React (^^,)
