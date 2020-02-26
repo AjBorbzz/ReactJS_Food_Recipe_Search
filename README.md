@@ -1,9 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Food Recipe Search
+My 2nd time to create app in React (^^,)
+In this project, I continued to learn creating in ReactJS using Edamam.com's Free API Food Search as data to load from the search bar.
+The app would display top 10 recipes according the user's food search. Searched data include Title, Ingredients, Calorie Count and Image. The design was simple card-typed display for each recipes searched.
 
-In the project directory, you can run:
 
+### Setup locally so it needs to run as follows:
 ### `npm start`
 
 Runs the app in the development mode.<br />
